@@ -8,33 +8,33 @@ A mobile application to **buy** and **sell** fashion items: clothing, shoes, acc
   <tr>
     <td align="center">
       <strong>Login</strong><br/>
-      <img src="https://github.com/user-attachments/assets/ba8f4b32-0862-4711-b7a5-ff409d5e824a" width="275"/>
+      <img width="275" src="https://github.com/user-attachments/assets/dfae5f18-4d2a-4829-b911-9802a56fb9a2" />
     </td>
     <td align="center">
       <strong>Home</strong><br/>
-      <img src="https://github.com/user-attachments/assets/a3fa0ca3-37ba-42f2-bb05-ea2ae0c88911" width="275"/>
+      <img width="275" src="https://github.com/user-attachments/assets/1ad9121d-18f3-4494-92c9-243eff3f33ed" />
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Detailed Article</strong><br/>
-      <img src="https://github.com/user-attachments/assets/0450e663-4be7-4dfb-a13f-3eb07a611aa8" width="275"/>
+      <img width="275" src="https://github.com/user-attachments/assets/2ce5618f-96a8-45f7-9de1-9330a3529302" />
     </td>
     <td align="center">
       <strong>Favorites</strong><br/>
-      <img src="https://github.com/user-attachments/assets/9693e5d2-43aa-4b31-a87c-044b5f12839c" width="275"/>
+      <img width="275" src="https://github.com/user-attachments/assets/044b9351-4796-49fc-80fb-751313907f6c" />
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Shopping Basket</strong><br/>
-      <img src="https://github.com/user-attachments/assets/817be9c8-4933-4b7d-bb78-0f79fddc265b" width="275"/>
+      <img width="275" src="https://github.com/user-attachments/assets/f988c4ed-2465-41db-9ae1-4deb2dbbdfd9" />
     </td>
     <td align="center">
       <strong>Finalize payment</strong><br/>
-      <img src="https://github.com/user-attachments/assets/e32b8a16-8f3d-4713-9cb9-83ea9aa98967" width="275"/>
+      <img width="275" src="https://github.com/user-attachments/assets/02fb0112-739c-494e-8cca-2c79f5b9bb1a" />
     </td>
   </tr>
 </table>
@@ -45,6 +45,6 @@ A mobile application to **buy** and **sell** fashion items: clothing, shoes, acc
 
 This repository is a **demonstration version** of StyleSwap.
 
-- It uses **demo data** only: listings, users, and content are simulated.
+- It uses **demo data** only.
 - It is **not connected** to the production backend or database.
 - It is intended for previewing the app flow, UI, and features without real services.
